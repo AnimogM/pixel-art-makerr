@@ -1,18 +1,6 @@
 # Pixel Art Maker Project
 
-##HTML and CSS starter code gotten from udacity
+A simple web app that allows users to select number of rows and columns they need and also select any color of choice.
 
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+##Hosted Link
+https://AnimogM.github.io/pixel-art-makerr/
